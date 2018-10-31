@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title> IT  </title>
+	<!--Utf-8 gjør at vi kan bruke æ, ø og å -->
+	<meta charset="utf-8">
+</head>
+<body>
+<h1> eksempler</h1>
+
+<ol>
+		<li> <https://github.com/Gruppa1/Nettside/blob/gh-pages/html/emil> her kan du se på eksempler </a> </li>
+		<p>&nbsp;</p>
+		<li> <a href="eksempler/struktMB.html" target="_blank"> her ser du filstrukturen </a> </li>
+		<p>&nbsp;</p>
+		<li> <a href="intro_IT1/eleverIT1.html"> hvem er jeg </a> </li>
+		<p>&nbsp;</p>
+		<li> <a href="intro_IT1/grupper_IT1.html"> Gruppeinndeling Elever IT1 </a> </li>
+		<p>&nbsp;</p>		
+<!-- ikke synlig  <p>&nbsp;</p>
+		<li> <a href="enkel/enkel.html"> Eksempel side 41 </a> </li>
+		<p>&nbsp;</p>
+		<li> <a href="overskrift/overskrift.html"> Eksempel side 43 </a> </li>
+		<p>&nbsp;</p>
+		<li> <a href="CSSOverskrifter/CSSoverskrift.html"> Eksempel side 49 </a> </li>
+		  <li> <a href="http://www.bellemakers.no/php/Kode10_6.php"> Første php script, kode 10.6, side 111 </a> </li> 
+-->
+	</ol>
+</body>
+</html>
+	
